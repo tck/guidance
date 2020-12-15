@@ -3,8 +3,8 @@
     "description": "A configurable frontend for thopra/styleguide",
     "type": "thopra-guidance",
     "repositories": [
-        { "type": "vcs", "url": "https://github.com/thopra/styleguide.git" },
-        { "type": "vcs", "url": "https://github.com/thopra/guidance-installer.git" }
+        { "type": "vcs", "url": "https://github.com/tck/styleguide.git" },
+        { "type": "vcs", "url": "https://github.com/tck/guidance-installer.git" }
     ],
     "keywords": [
         "kss",
